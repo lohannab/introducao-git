@@ -1,0 +1,9 @@
+git init >> cria um repositorio
+
+git remote add origin "link do GitHub" >> local online
+
+git add . >> adiciona td que tem ponto
+
+git commit -m "mensagem do commit"
+
+git push origin main 
